@@ -1,0 +1,48 @@
+Data Visualization — Pokémon Dataset Part-II
+Welcome to the Next Post in the series of Data Visualization, & 2nd part of one of the most favorite and loved Cartoon of all time — Pokémon…
+
+Gotta Catch ’em All…. (The Visualization Part -II of the dataset)😉
+
+In 1st Part we saw some interesting graphs related to the Generation of Pokémon and tried to figure out relation of other fields with it. So continuing with this we are going to analyze few more graphs related to other fields..
+
+Let’s begin with some re-overview of the dataset as a refresher to see what we are going to analyze..
+
+Fig 2:- Description of columns of Pokémon Dataset
+
+Fig 3:- Pokémon Data Overview
+
+Starting with some graphs related to type of Pokémon..
+
+Fig 4:- Count of Pokémon based on Primary Type
+
+We have seen a similar graph in Part 1 of Pokémon Dataset at the time of analyzing Generation link on the Primary type of Pokémon.
+
+We can see here Water, Normal, Grass, Bug, and Psychic are the more common Primary type for Pokémon whereas Flying seems to be a rare type for Type 1 Pokémon.
+
+Now Let’s analyze what is the ability distribution for the type of Pokémon…
+
+1.1 Attack VS Primary Type
+
+Fig 5:- Count of Pokémon based on attack group and Type
+
+We can notice here the major portion for each type is occupied by groups 41–60,61–80 & 81–100. Also, the attack group 21–40 which was seen as a major part of our analysis with generation in part-1 has a very little contribution for each type.
+
+The point to note here is… Attack group 181–200 is present only for Bug and Psychic-type. Also, attack group 161–180 is present only for few types, and that too in very less count. Lastly, Flying-type has 1 each for 101–120, 21–40, 61–80 & 81–100 attack groups…
+
+1.2 Defense VS Primary Type
+
+Fig 6:- Count of Pokémon based on defense group and Type
+
+Similar to Attack Group we can see Defense Group 41–60, 61–80 & 81–100 has a major share for all types… Also, 21–40 has a minor portion of all the types. We can also notice here that the top groups in range 161–200 do not have much Pokémon.
+
+Apart from this highest defense is 201–300 which is present only for Bug and Steel Type. If we go back to the Attack group Bug-type had the highest Attack group also. If we see for Flying-type, it had 1 each Pokémon in different Attack group but here 3 out of 4 Pokémon has the Defense Group of 61–80 and 1 for 21–40.
+
+So we can say Most of the Pokémon in each category has an average attack and Defense of 41–100.
+
+1.3 HP VS Primary Type
+
+Fig 7:- Count of Pokémon based on HP group and Type
+
+Contrary to first 2 graphs, here only 41–60 & 61–80 groups have major portion for all type of Pokémon’s.. Group 81–100 has only major portions in top 3 types. Also, we notice here that highest group 200–300 has only 2 Pokémon of Normal Type.
+
+2nd and 3rd highest groups i.e. 181–200 and 161–180 also has only 1 and 2 Pokémon in Psychic and Water types respectively. Flying Type has 1 each for 21–40 and 81–100 group and 2 for 61–80, which denotes Flying Type seems to be rare but they do not have very rare abilities.
